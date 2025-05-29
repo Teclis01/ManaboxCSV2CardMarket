@@ -11,3 +11,7 @@
 
 
 For issues check console.
+
+
+
+Check language of cards as Manabox may not export the right one.
