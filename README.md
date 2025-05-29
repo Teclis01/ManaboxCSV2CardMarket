@@ -1,5 +1,7 @@
 # ManaboxCSV2CardMarket
 
+0-pip install selenium
+
 1-Scan with Manabox
 
 2.Export as CSV (replace/rename as cm.csv)
